@@ -1,0 +1,5 @@
+New circle
+New oval
+New rectangle
+New square
+New triangle
